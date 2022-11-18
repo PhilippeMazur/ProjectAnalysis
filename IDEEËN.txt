@@ -1,0 +1,7 @@
+Bij To-Be: 
+Elke groep moet op onze website geraken, maar rollen mogen niet expliciet gemaakt en weergegeven worden
+bijvoorbeeld: keuze laten maken welke rol je hebt. -> Zie foto 1 in folder Functional Design
+
+Dus dacht ik eraan om in de website, bij Eretekens aanvragen. Als het geopend word de keuze te laten maken: "Nieuwe ereteken aanvragen" of een ereteken kiezen die nog niet volledig is afgewerkt waar opstaat welke stap deze zich bevind (in de vorm van een lijst). En enkel een bepaalde groep kan die bepaalde stap openen zeg maar, bijvoorbeeld: als er "Stap 2" staat, kan enkel ABB deze openen. -> Zie foto 2 in Functional Design
+
+Dit zijn enkel ideeën geen definitieve oplossingen btw
