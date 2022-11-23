@@ -1,3 +1,4 @@
-
 To-Be + As-Is is te veel informatie volledig aanpassen.
 Functional Design mag simpel niet super gedatieerd met hun layout.
+
+API in DFD beschrijven
