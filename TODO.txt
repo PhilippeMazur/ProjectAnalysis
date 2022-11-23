@@ -1,4 +1,3 @@
-Wat nog aangepast moet worden:
--Nieuwe versie van As-Is op word document zetten.
--To-Be draw.io op word document zetten.
--to be functional design aanapsse, -> in de eretekens aanvragen 2 aanklikbare teksten voorzien (nieuw ereteken aanmaken, huidige eretekens bekijken).
+
+To-Be + As-Is is te veel informatie volledig aanpassen.
+Functional Design mag simpel niet super gedatieerd met hun layout.
